@@ -10,6 +10,8 @@ website: https://www.goodreads.com/author/list/4634532.Nguy_n_Nh_t_nh?page=1&per
 [![colab](https://user-images.githubusercontent.com/47073675/90618955-d94e7680-e23a-11ea-8183-577b88380d89.JPG)
 ](https://colab.research.google.com/drive/1dJmfMnWAhs1lqENv3KwhwVYxcQt5rLkB?usp=sharing)
 ------------
+
+(note: open file Read_data.ipynb if can't open this link ☟☟)
 [![jupyter](https://user-images.githubusercontent.com/47073675/90623264-72cc5700-e240-11ea-8540-8265fb7b7efd.JPG)
 ](https://jupyterlab-26.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/DB0201EN/Read_data.ipynb)
 ------------

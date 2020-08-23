@@ -1,18 +1,21 @@
 
 # Test 1: Crawl from HTML and backup database
 
-website: https://www.goodreads.com/author/list/4634532.Nguy_n_Nh_t_nh?page=1&per_page=30
+* [Website to crawl](https://www.goodreads.com/author/list/4634532.Nguy_n_Nh_t_nh?page=1&per_page=30)
 
-------------
+* [Crawl and backup data in Colab](https://colab.research.google.com/drive/1Ga33mdqsrGbgpAoBNztJa069U7E6GZSo?usp=sharing)
 
-[![colab](https://user-images.githubusercontent.com/47073675/90618940-d489c280-e23a-11ea-9b3b-56c70bf3bd3b.JPG)](https://colab.research.google.com/drive/1FlTRvCEuOyFTzMLjqbQfa6udsAFVKsBu#scrollTo=vGUL-OdMpDJm)
-------------
-[![colab](https://user-images.githubusercontent.com/47073675/90618955-d94e7680-e23a-11ea-8183-577b88380d89.JPG)
-](https://colab.research.google.com/drive/1dJmfMnWAhs1lqENv3KwhwVYxcQt5rLkB?usp=sharing)
-------------
-[![jupyter](https://user-images.githubusercontent.com/47073675/90623264-72cc5700-e240-11ea-8540-8265fb7b7efd.JPG)
-](https://jupyterlab-26.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/DB0201EN/Read_data.ipynb)
-------------
+* [Read data in Colab](https://colab.research.google.com/drive/1dJmfMnWAhs1lqENv3KwhwVYxcQt5rLkB?usp=sharing)
+
+* Database:
+  + Link Database: `dashdb-txn-sbox-yp-dal09-10.services.dal.bluemix.net`
+      - User name: `xbr09096`
+      - Password: `q3p+g7szbpg06pm7`
+  + View data in table:
+  
+    ![image](https://user-images.githubusercontent.com/47073675/90973466-829fb000-e54c-11ea-8077-52750446776d.png)
+    + EXPLORE -> Tables -> XBR09096 -> Select table and click view data
+    + RUN SQL: Use query
 
 ### Table
 

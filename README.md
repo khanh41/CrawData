@@ -8,7 +8,7 @@
 * [Read data in Colab](https://colab.research.google.com/drive/1dJmfMnWAhs1lqENv3KwhwVYxcQt5rLkB?usp=sharing)
 
 * Database:
-  + :Link Database: `dashdb-txn-sbox-yp-dal09-10.services.dal.bluemix.net`
+  + Link Database: `dashdb-txn-sbox-yp-dal09-10.services.dal.bluemix.net`
       - User name: `xbr09096`
       - Password: `q3p+g7szbpg06pm7`
   + View data in table:

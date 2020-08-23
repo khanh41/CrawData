@@ -15,6 +15,7 @@
   
     ![image](https://user-images.githubusercontent.com/47073675/90973466-829fb000-e54c-11ea-8077-52750446776d.png)
     + EXPLORE -> Tables -> XBR09096 -> Select table and click view data
+    + RUN SQL: Use query
 
 ### Table
 

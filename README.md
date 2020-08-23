@@ -2,15 +2,19 @@
 # Test 1: Crawl from HTML and backup database
 
 * [Website to crawl](https://www.goodreads.com/author/list/4634532.Nguy_n_Nh_t_nh?page=1&per_page=30)
-* Database:
-  + [Link Database](https://dashdb-txn-sbox-yp-dal09-10.services.dal.bluemix.net)
-      - User name: `xbr09096`
-      - Password: `q3p+g7szbpg06pm7`
-
 
 * [Crawl and backup data in Colab](https://colab.research.google.com/drive/1Ga33mdqsrGbgpAoBNztJa069U7E6GZSo?usp=sharing)
 
 * [Read data in Colab](https://colab.research.google.com/drive/1dJmfMnWAhs1lqENv3KwhwVYxcQt5rLkB?usp=sharing)
+
+* Database:
+  + [Link Database](https://dashdb-txn-sbox-yp-dal09-10.services.dal.bluemix.net)
+      - User name: `xbr09096`
+      - Password: `q3p+g7szbpg06pm7`
+  + View data in table:
+  
+    ![image](https://user-images.githubusercontent.com/47073675/90973466-829fb000-e54c-11ea-8077-52750446776d.png)
+    + EXPLORE -> Tables -> XBR09096 -> Select table and click view data
 
 ### Table
 
